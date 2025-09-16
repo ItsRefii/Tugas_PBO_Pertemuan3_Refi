@@ -3,8 +3,8 @@ public class konversiSuhuBeraksi {
         konversiSuhu konv1 = new konversiSuhu();
         konversiSuhu2 konv2 = new konversiSuhu2();
 
-        double c = 100;
-        double f = 212;
+        double c = 30;
+        double f = 72;
 
         System.out.println("=========================================");
         System.out.println("     KONVERSI SUHU      ");
@@ -16,4 +16,5 @@ public class konversiSuhuBeraksi {
         
         System.out.println("=========================================");
     }
+
 }
